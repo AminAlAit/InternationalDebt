@@ -1,6 +1,6 @@
-## [International Debt](https://github.com/AminAlAit/DrSemmelweis)
+## [International Debt](https://github.com/AminAlAit/InternationalDebt/blob/main/notebook.ipynb)
 
-### [SQL Exploratory Data Analysis](https://github.com/AminAlAit/DrSemmelweis)
+### [SQL Exploratory Data Analysis](https://github.com/AminAlAit/InternationalDebt/blob/main/notebook.ipynb)
 <span style="background-color: #DCDCDC">SQL</span> 
 <span style="background-color: #DCDCDC">Data Manipulation</span> 
 <span style="background-color: #DCDCDC">Case Study</span> 
